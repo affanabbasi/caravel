@@ -25,3 +25,6 @@ Self bias generator with startup circuit
 
 ## Power Amplifier
 Linear Class AB power amplifier. On-chip inductor is designed as a test structure by using top metal layer. Actual inductance & Q factor is unknown
+
+## Folded Cascode
+Differential input single ended Folded Cascode Opamp; 1Mhz unity gain frequency, 60 degree phase margin & a gain of 79dB
